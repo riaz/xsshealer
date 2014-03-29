@@ -23,7 +23,7 @@ module.exports = {
 	*
 	*/
 	unescape: function(str){
-		return String(str
+		return String(str)
 			   .replace('&amp;','&')
 			   .replace('&quot;','"')
 			   .replace('&#39;','\'')
