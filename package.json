@@ -1,0 +1,23 @@
+{
+  "name": "XSSHealer",
+  "version": "0.0.0",
+  "description": "Prevents from XSS Attack on User Forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/riaz/XSSHealer"
+  },
+  "keywords": [
+    "escape",
+    "unescape",
+    "html"
+  ],
+  "author": "Riaz Munshi <riaz.2012@gmail.com> (http://codeguage.com/)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/riaz/XSSHealer/issues"
+  }
+}
